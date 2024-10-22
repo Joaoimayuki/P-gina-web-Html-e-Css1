@@ -61,4 +61,5 @@ h1 {
   top: 100%;
   width: 60vw;
 }
-
+@import url("styles/header.css");
+@import url("styles/banner.css");
